@@ -6,7 +6,7 @@ export const Loader = () => {
       <div className="w-10 h-10 relative animate-pulse">
         <Image
           alt="Logo"
-          src="/logo.gif"
+          src="/logo.jpg"
           fill
         />
       </div>
