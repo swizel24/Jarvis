@@ -31,7 +31,7 @@ const routes = [
     href: '/image',
   },
   {
-    label: 'Image to Video',
+    label: 'Text to Video',
     icon: VideoIcon,
     color: "text-orange-700",
     href: '/video',
