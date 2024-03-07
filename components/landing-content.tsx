@@ -4,28 +4,22 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const testimonials = [
   {
-    name: "David",
-    avatar: "D",
-    title: "Software Engineer",
-    description: "This is the best application I've ever used!",
+    name: "J.A.R.V.I.S. V 0.1.0",
+    avatar: "1",
+    title: "Simple HTML CSS app with embedded Gradio Application.",
+    description: "This website is hosted using Netlify, and the Gradio Application is hosted on Huggingface Spaces. The Huggingface App is then embedded inside a static HTML page using an iframe.",
   },
   {
-    name: "Swizel",
-    avatar: "S",
-    title: "CEO",
-    description: "This app has changed my life, cannot imagine working without it!",
+    name: "J.A.R.V.I.S. V 0.2.0",
+    avatar: "2",
+    title: "A Full Stack AI SaaS.",
+    description: "This app uses Tailwind CSS for design and animation, offers various login options, and provides functionalities like AI-powered content generation and music creation. It also features a subscription plan and handles data fetching directly from the database. The code follows a standard Next 13 structure for organization.",
   },
   {
-    name: "Shubhang",
-    avatar: "S",
-    title: "Designer",
-    description: "I use this daily for generating new photos!",
-  },
-  {
-    name: "Tanya",
-    avatar: "T",
-    title: "CFO",
-    description: "The best in class, definitely worth the premium subscription!",
+    name: "J.A.R.V.I.S. V 0.3.0",
+    avatar: "3",
+    title: "All in One AI System using Streamlit and Python",
+    description: "NOTE: This version will be Updated and Deployed Soon. Thank you for your Patience.",
   },
 ];
 
