@@ -48,6 +48,9 @@ export const LandingHero = () => {
       <div className="text-sm md:text-xl font-light text-zinc-400">
         v0.1.0 and v0.3.0 Links will be updated soon...
       </div>
+      <div className="text-sm md:text-xl font-light text-zinc-300">
+        Please Note that some features might not work because we are using free version of Vercel.com for deployment.
+      </div>
     </div>
   );
 };
