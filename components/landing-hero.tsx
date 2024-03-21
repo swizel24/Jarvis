@@ -43,7 +43,10 @@ export const LandingHero = () => {
         No credit card required.
       </div>
       <div className="text-sm md:text-xl font-light text-zinc-400">
-        Visit our J.A.R.V.I.S. v0.1.0.
+        This is J.A.R.V.I.S. v0.2.0.
+      </div>
+      <div className="text-sm md:text-xl font-light text-zinc-400">
+        v0.1.0 and v0.3.0 Links will be updated soon...
       </div>
     </div>
   );
